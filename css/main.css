@@ -1,0 +1,67 @@
+body { 
+background: url(../img/flower.jpg) no-repeat 5% 5% ; 
+background-size: cover; 
+ }
+
+h1 {
+text-align: center; 
+font-size: 9.5rem; 
+color: pink; 
+letter-spacing: ; 
+text-transform: none; 
+line-height: ;
+font-family: 'Fira Sans', sans-serif; 
+text-decoration: overline;
+box-sizing: border-box;
+margin-top: 2.5rem;
+}
+
+h2 {
+	text-align: center; 
+	font-size: 1.9rem;
+	color: white;
+	font-family: 'Fira Sans', sans-serif;
+	line-height: ; 
+	margin: auto;
+	margin-bottom: 3rem;
+	margin-top: 11rem;
+	border: dotted;
+	border-color: white;
+	width: 50%;
+	padding: 0.3rem;
+	background-color: grey;
+	border-radius: 5rem;
+
+}
+
+main { 
+
+background-color: ; 
+box-sizing: border-box;
+ }
+
+ footer { 
+
+background-color: pink; 
+font-family: 'Franklin Gothic', sans-serif; 
+color: navy;
+text-align: center;
+line-height: 1.8;
+text-decoration: underline;
+margin-top: 6rem;
+  }
+
+
+  /* 
+  In HTML put what you want it to say in a <h1> or <p> or <main> or <footer>
+  Everything below needs to be done in CSS controlling the properties
+  Key notes HTML uses <></> these whereas CSS using {} these
+  main {
+	width: 50%;
+	padding: 3rem;
+	background-color: silver;
+	margin-top-bottom-left-right: 3rem (auto centers the box horizontally);
+	box-sizing: border-box;
+	border: dotted dashed solid and then a color;
+
+  }
